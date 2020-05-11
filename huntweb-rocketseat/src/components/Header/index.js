@@ -4,7 +4,7 @@ import './styles.css'
 
 //Stateless component
 const Header = () => (
-    <header className="main-header">JSHunt teste</header>
+    <header className="main-header">JSHunt</header>
 );
 
 export default Header;
