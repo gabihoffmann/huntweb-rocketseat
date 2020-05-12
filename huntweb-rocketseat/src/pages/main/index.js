@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import api from '../../services/api'
+import {Link} from 'react-router-dom'
 
 import './styles.css'
 
@@ -56,10 +57,10 @@ export default class Main extends Component{
         <div className="product-list">
             {products.map(product => (
                 // As keys ajudam o React a identificar quais itens sofreram alterações, foram adicionados ou removidos.
-                <article key={product.id}>
+                <article key={product._id}>
                     <strong>{product.title}</strong>
                     <p>{product.description}</p>
-                    <a href="">Acessar</a>
+                    <Link to={`/products/${product._id}`}>Acessar</Link>
                 </article>
                 
             ))}
