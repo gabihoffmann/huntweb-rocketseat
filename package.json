@@ -1,8 +1,11 @@
 {
-  "homepage": "https://github.com/gabihoffmann/reactjs-huntweb-rocketseat",
+  "homepage": "https://github.com/gabihoffmann/huntweb-rocketseat",
   "name": "huntweb-rocketseat",
   "description": "A React.js project",
-  "author": {"name": "Gabi Hoffman", "email": "hoffmann.agf@gmail.com"},
+  "author": {
+    "name": "Gabi Hoffman",
+    "email": "hoffmann.agf@gmail.com"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {

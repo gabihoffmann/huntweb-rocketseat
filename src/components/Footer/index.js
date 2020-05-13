@@ -18,9 +18,6 @@ const Footer = () => (
                 <LinkedInIcon/>
             </Icon>
         </a>
-
-        
-        
     </footer>
 );
 
