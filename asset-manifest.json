@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gabihoffmann/huntweb-rocketseat/static/css/main.d0447c0b.chunk.css",
+    "main.js": "/gabihoffmann/huntweb-rocketseat/static/js/main.cd09ead2.chunk.js",
+    "main.js.map": "/gabihoffmann/huntweb-rocketseat/static/js/main.cd09ead2.chunk.js.map",
+    "runtime-main.js": "/gabihoffmann/huntweb-rocketseat/static/js/runtime-main.6e82039f.js",
+    "runtime-main.js.map": "/gabihoffmann/huntweb-rocketseat/static/js/runtime-main.6e82039f.js.map",
+    "static/js/2.d44a9a2c.chunk.js": "/gabihoffmann/huntweb-rocketseat/static/js/2.d44a9a2c.chunk.js",
+    "static/js/2.d44a9a2c.chunk.js.map": "/gabihoffmann/huntweb-rocketseat/static/js/2.d44a9a2c.chunk.js.map",
+    "index.html": "/gabihoffmann/huntweb-rocketseat/index.html",
+    "precache-manifest.d0fe08605b31de9a0fb373f98a4f1a0f.js": "/gabihoffmann/huntweb-rocketseat/precache-manifest.d0fe08605b31de9a0fb373f98a4f1a0f.js",
+    "service-worker.js": "/gabihoffmann/huntweb-rocketseat/service-worker.js",
+    "static/css/main.d0447c0b.chunk.css.map": "/gabihoffmann/huntweb-rocketseat/static/css/main.d0447c0b.chunk.css.map",
+    "static/js/2.d44a9a2c.chunk.js.LICENSE.txt": "/gabihoffmann/huntweb-rocketseat/static/js/2.d44a9a2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e82039f.js",
+    "static/js/2.d44a9a2c.chunk.js",
+    "static/css/main.d0447c0b.chunk.css",
+    "static/js/main.cd09ead2.chunk.js"
+  ]
+}
