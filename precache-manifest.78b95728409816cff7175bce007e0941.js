@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f34d7137941ccf7e08852df5d2642352",
+    "revision": "6eb37a58fd95f238cf82c9db5acdbace",
     "url": "/gabihoffmann/huntweb-rocketseat/index.html"
   },
   {
-    "revision": "68fa82dcb44097fe6b73",
+    "revision": "ac7d75dceb706c77442f",
     "url": "/gabihoffmann/huntweb-rocketseat/static/css/main.d0447c0b.chunk.css"
   },
   {
-    "revision": "3142effeacd6d0938992",
-    "url": "/gabihoffmann/huntweb-rocketseat/static/js/2.d44a9a2c.chunk.js"
+    "revision": "56223f60e38b26df1117",
+    "url": "/gabihoffmann/huntweb-rocketseat/static/js/2.7c4226fb.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/gabihoffmann/huntweb-rocketseat/static/js/2.d44a9a2c.chunk.js.LICENSE.txt"
+    "url": "/gabihoffmann/huntweb-rocketseat/static/js/2.7c4226fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68fa82dcb44097fe6b73",
-    "url": "/gabihoffmann/huntweb-rocketseat/static/js/main.cd09ead2.chunk.js"
+    "revision": "ac7d75dceb706c77442f",
+    "url": "/gabihoffmann/huntweb-rocketseat/static/js/main.728fcc0d.chunk.js"
   },
   {
     "revision": "6913dacb1a44d077137a",
